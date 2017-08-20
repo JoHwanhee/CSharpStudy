@@ -50,10 +50,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Common\Common.csproj">
-      <Project>{984c6a36-a3ad-40f4-8145-0377a28d9db2}</Project>
-      <Name>Common</Name>
-    </ProjectReference>
     <ProjectReference Include="..\OurHomeGetter\OurHomeGetter.csproj">
       <Project>{4d36576b-4983-4f3a-ae8e-6a2e79bd5fae}</Project>
       <Name>OurHomeGetter</Name>
